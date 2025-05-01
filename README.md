@@ -32,7 +32,7 @@ Admins can view all participants in a room and chat with them. Participants can 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rushibelkunde/room-monitor.git
 cd room-monitor
 ```
 
